@@ -25,51 +25,48 @@ This repository should eventually contain the famous "Hello World" program in al
 
 ## Languages Covered
 
-- [x] **JavaScript**
-
-JavaScript, often abbreviated as JS, is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web.
-
-- [x] Python
-- [x] Java
-- [x] C++		
-- [x] C		
-- [x] PHP		
-- [x] C#	
-- [x] Dart Language	
-- [x] Shell
-- [x] Go
-- [x] TypeScript
-- [x] Ruby
-- [x] Objective-C
-- [x] Swift
-- [x] Kotlin
-- [x] R
-- [x] Scala
-- [x] Rust
-- [x] Lua
-- [x] Matlab
-- [x] PowerShell
-- [x] CoffeeScript
-- [x] Perl
-- [x] Perl 6
-- [x] Groovy
-- [x] Haskell
-- [x] Elixir
-- [x] D
-- [x] HTML
-- [x] Julia
-- [x] Assembly
-- [x] Lisp
-- [x] Prolog
-- [x] Fortran
-- [x] VB.NET
-- [x] Crystal
-- [x] F#
-- [x] Pascal
-- [x] SQL
-- [x] PostScript
-- [x] Autoit
-- [x] Delphi
+ - [x] Assembly
+ - [x] Autoit
+ - [x] C
+ - [x] C#
+ - [x] C++
+ - [x] CoffeeScript
+ - [x] Crystal
+ - [x] D
+ - [x] Dart Language
+ - [x] Delphi
+ - [x] Elixir
+ - [x] F#
+ - [x] Fortran
+ - [x] Go
+ - [x] Groovy
+ - [x] HTML
+ - [x] Haskell
+ - [x] Java
+ - [x] JavaScript
+ - [x] Julia
+ - [x] Kotlin
+ - [x] Lisp
+ - [x] Lua
+ - [x] Matlab
+ - [x] Objective-C
+ - [x] PHP
+ - [x] Pascal
+ - [x] Perl
+ - [x] Perl 6
+ - [x] PostScript
+ - [x] PowerShell
+ - [x] Prolog
+ - [x] Python
+ - [x] R
+ - [x] Ruby
+ - [x] Rust
+ - [x] SQL
+ - [x] Scala
+ - [x] Shell
+ - [x] Swift
+ - [x] TypeScript
+ - [x] VB.NET
 
 ## Contributors
 
